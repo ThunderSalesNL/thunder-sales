@@ -1,4 +1,0 @@
-DirectoryIndex index.html
-<FilesMatch "^(server\.js|config\.php|README\.md|package\.json)$">
-  Require all denied
-</FilesMatch>
