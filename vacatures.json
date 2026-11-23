@@ -1,0 +1,106 @@
+[
+  {
+    "id": "sales-agent-remote",
+    "actief": true,
+    "geplaatst": "2026-11-10",
+    "titel": "Sales Agent (remote)",
+    "samenvatting": "Bel vanuit huis voor onze opdrachtgevers: afspraken inplannen en leads opvolgen, met training en een vaste teamleider.",
+    "werkplek": "Remote",
+    "uren": "20 tot 40 uur per week",
+    "dienstverband": "zzp",
+    "reactie": "7 dagen",
+    "intro": "We zoeken sales agents die vanuit huis willen bellen: in een team, met een vaste teamleider, training vooraf en feedback elke dag. Geen kantoor, wel structuur.",
+    "vergoeding": "Je werkt als zzp'er en ontvangt een vergoeding per afspraak die je inplant. De hoogte van de vergoeding hangt af van de opdracht waarvoor je belt.",
+    "beschikbaarheid": [
+      "20 tot 32 uur per week",
+      "32 tot 40 uur per week"
+    ],
+    "taken": [
+      "Afspraken inplannen met potentiële klanten",
+      "Leads opvolgen en kwalificeren",
+      "Bestaande contacten opnieuw benaderen",
+      "Gesprekken vastleggen in het CRM van de opdrachtgever",
+      "Resultaten bespreken met je teamleider"
+    ],
+    "eisen": [
+      "Je spreekt en schrijft goed Nederlands",
+      "Je belt graag en blijft vriendelijk bij een nee",
+      "Je werkt zelfstandig en vraagt hulp als dat nodig is",
+      "Je hebt een rustige werkplek, goed internet en een headset",
+      "Ervaring is een pré, geen vereiste: wij leiden je op"
+    ],
+    "aanbod": [
+      {
+        "titel": "Training vooraf",
+        "tekst": "Productkennis, gespreksvoering en omgaan met bezwaren, afgestemd op de opdracht waarvoor je belt."
+      },
+      {
+        "titel": "Een vaste teamleider",
+        "tekst": "Een ervaren Senior Thunder Sales professional begeleidt je en geeft feedback op je gesprekken."
+      },
+      {
+        "titel": "Een team om mee te werken",
+        "tekst": "Overleggen, tips uitwisselen en samen pauzeren, ook al zit iedereen op een andere plek."
+      }
+    ],
+    "vragen": [
+      {
+        "vraag": "Moet ik ervaring hebben?",
+        "antwoord": "Nee. Ervaring helpt, maar motivatie en een goede telefoonstem zijn belangrijker. Je krijgt training voordat je begint."
+      },
+      {
+        "vraag": "Welke apparatuur heb ik nodig?",
+        "antwoord": "Je zorgt zelf voor een laptop of pc, een headset en een stabiele internetverbinding. De software en systemen waarmee je werkt leveren wij."
+      },
+      {
+        "vraag": "Kan ik dit combineren met studie of een andere baan?",
+        "antwoord": "Dat kan, als je minimaal 20 uur per week beschikbaar bent. Er zijn geen vaste dagdelen: je plant je uren zelf in."
+      },
+      {
+        "vraag": "Word ik gecontroleerd tijdens het werk?",
+        "antwoord": "Je teamleider luistert mee en bespreekt je gesprekken met je, zodat je kunt groeien. Daarnaast worden resultaten gemonitord."
+      },
+      {
+        "vraag": "Werk ik in loondienst of als zzp'er?",
+        "antwoord": "Je werkt als zzp'er. Je factureert Thunder Sales dus zelf en regelt je eigen verzekeringen en belastingen."
+      }
+    ]
+  },
+  {
+    "id": "voorbeeld-kopieer-mij",
+    "actief": false,
+    "geplaatst": "2026-01-01",
+    "titel": "Titel van de vacature",
+    "samenvatting": "Korte omschrijving voor in het overzicht (1 of 2 zinnen).",
+    "werkplek": "Remote",
+    "uren": "20 tot 40 uur per week",
+    "dienstverband": "zzp",
+    "reactie": "7 dagen",
+    "intro": "Introductie bovenaan de vacaturepagina.",
+    "vergoeding": "Wat je verdient en hoe je betaald wordt.",
+    "beschikbaarheid": [
+      "20 tot 32 uur per week",
+      "32 tot 40 uur per week"
+    ],
+    "taken": [
+      "Taak 1",
+      "Taak 2"
+    ],
+    "eisen": [
+      "Eis 1",
+      "Eis 2"
+    ],
+    "aanbod": [
+      {
+        "titel": "Wat je krijgt",
+        "tekst": "Uitleg."
+      }
+    ],
+    "vragen": [
+      {
+        "vraag": "Een veelgestelde vraag?",
+        "antwoord": "Het antwoord."
+      }
+    ]
+  }
+]
